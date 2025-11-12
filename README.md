@@ -32,10 +32,7 @@
 
 ---
 
-## 📸 **Screenshots**
-(Add screenshots of your webpage here if you’d like)
 
----
 
 ## 🚀 **How to Run Locally**
 
